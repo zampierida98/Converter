@@ -10,3 +10,9 @@ Il programma presenta una semplice interfaccia grafica che permette di:
 3.	Configurare il tipo di dato (lineare, superficie, volume)
 4.	Inserire il dato da convertire
 5.	Visualizzare il dato calcolato
+
+# Contenuto
+<ul>
+  <li>Converter.jar - file eseguibile per aprire l'interfaccia grafica</li>
+  <li>src/converter/ - sorgenti</li>
+</ul>
