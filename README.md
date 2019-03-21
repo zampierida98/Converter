@@ -13,6 +13,6 @@ Il programma presenta una semplice interfaccia grafica che permette di:
 
 # Contenuto
 <ul>
-  <li>Converter.jar - file eseguibile per aprire l'interfaccia grafica</li>
-  <li>src/converter/ - sorgenti</li>
+  <li><i>Converter.jar </i>- file eseguibile per aprire l'interfaccia grafica</li>
+  <li><i>src/converter/ </i>- sorgenti</li>
 </ul>
