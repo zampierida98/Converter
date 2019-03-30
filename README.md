@@ -12,5 +12,5 @@ Il programma presenta una semplice interfaccia grafica che permette di:
 5.	Visualizzare il dato calcolato
 
 ## Contenuto
-- `Converter.jar`: file eseguibile per aprire l'interfaccia grafica
-- `src/converter/`: sorgenti
+- `Converter.jar` - file eseguibile per aprire l'interfaccia grafica
+- `src/converter/` - sorgenti
