@@ -1,7 +1,7 @@
 # Converter
 Algoritmo di conversione di misure da sistema metrico (millimetri) ad imperiale (pollici) e conversione inversa sviluppato durante lo
 stage aziendale presso [Steel&Graphics S.r.l.](https://steel-graphics.com/) nell'ambito del progetto [Alternanza Scuola-Lavoro e Impresa
-Formativa Simulata: la sperimentazione dell'Istituto Marconi](https://old.marconiverona.edu.it/portal/didattica/progetti/orientamento-ed-iscrizioni/orientamento-in-uscita/1636-alternanza-scuola-lavoro-e-impresa-formativa-simulata-la-sperimentazione-dell-istituto-marconi).
+Formativa Simulata: la sperimentazione dell'Istituto Marconi](https://github.com/zampierida98/zampierida98.github.io/raw/main/evento_finale_Progetto_ASL_e_IFS.png).
 
 ## Funzionamento
 Il programma presenta una semplice interfaccia grafica che permette di:
